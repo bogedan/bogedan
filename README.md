@@ -1,28 +1,28 @@
-
 # Hi, I'm Cracker 👋
 
 I'm **Baogeng Pan**, a master's student at **Peking University**.
 
-Interested in building intelligent robotic systems, from hardware to software.
+Interested in building intelligent robotic systems, from hardware design to low-level software and AI.
 
-## 🔬 Research & Engineering Interests
-
+### 🔬 Research & Engineering Interests
 - Robotics & Robot Learning
 - Robot Manipulation & Control
 - Embedded Linux & C++
 - Hardware–Software Integration
 
-## 🛠️ Tech Stack
+### 🔧 Hardware & Making
+- 3D Printing & Rapid Prototyping
+- Electronic Circuit Design
+- DIY Electronics & Hardware Projects
 
-**Languages:** C/C++ · Python · 
 
-**Systems:** Linux · Git · ROS 2
+## 🛠 Tech Stack
 
-**AI & Robotics:** PyTorch · Robot Learning
+`C++` `Python` `Linux` `Git` `Robot UMI` `3D Printing` `Electronics`
 
-## 🚀 Projects
 
-Exploring robot control, data collection, and AI-driven manipulation.
+### 🚀 Projects
+Exploring robot control, data collection, embedded systems, and DIY hardware.
 
 
 <!--
